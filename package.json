@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d website"
+    "deploy": "gh-pages -d roar-cycle"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://Daffanie.github.io/website",
+  "homepage": "https://Daffanie.github.io/roar-cycle",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
