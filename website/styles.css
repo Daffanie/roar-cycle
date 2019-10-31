@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url(/var/www/MyPracticeFiles/images/image-lion-background.png);
+    background-image: url(/var/www/MPF/images/image-lion-background.png);
     background-position: top center;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
@@ -52,7 +52,7 @@ main {
 }
 
 .card1 {
-    background-image: url(/var/www/MyPracticeFiles/images/image-background-card1.jpg);
+    background-image: url(/var/www/MPF/images/image-background-card1.jpg);
     background-size: cover;
     background-position: bottom;
     min-height: 250px;
@@ -61,7 +61,7 @@ main {
 }
 
 .card2 {
-    background-image: url(/var/www/MyPracticeFiles/images/image-background-card2.jpg);
+    background-image: url(/var/www/MPF/images/image-background-card2.jpg);
     background-size: cover;
     background-position: bottom;
     min-height: 250px;
@@ -71,7 +71,7 @@ main {
 }
 
 .card3 {
-    background-image: url(/var/www/MyPracticeFiles/images/image-background-card3.jpg);
+    background-image: url(/var/www/MPF/images/image-background-card3.jpg);
     background-size: cover;
     background-position: bottom;
     min-height: 250px;
